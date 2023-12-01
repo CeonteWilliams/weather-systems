@@ -1,0 +1,31 @@
+body{
+    background: url(https://w0.peakpx.com/wallpaper/507/813/HD-wallpaper-homer-simpson-stars-christmas-homer-simpson-homer-stars-looking-the-the-simpsons.jpg) ;
+    /* margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto; */
+    background-size: cover;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+footer{
+   color: white;
+   margin-top: 50%;
+}
+
+select {
+    margin-bottom: 4rem;
+}
+
+#forecastResults {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+#forecastResults .card {
+    width: 9rem;
+     
+}
+
